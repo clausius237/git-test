@@ -1,0 +1,1 @@
+i have just learned how to creat a file with touch command and opening with visual studio code
